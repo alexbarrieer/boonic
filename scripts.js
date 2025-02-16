@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Add clipboard functionality
     const contractAddress = document.querySelector('.highlight');
-    const fullAddress = '5EVnEFjkdkwkNLNizMMGYtV1AuCdUcCvcQtUzYF2pump';
+    const fullAddress = 'uhJNBw9i5hx8omMojRs21RowksyAQftBsQTZzLSpump';
     
     contractAddress.addEventListener('click', async function() {
         try {
